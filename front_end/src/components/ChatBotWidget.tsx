@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef } from "react";
-import "./ChatbotWidget.css";
+import "./ChatBotWidget.css";
 import { MessageOutlined, SendOutlined } from "@ant-design/icons";
 import { marked } from "marked";
 
